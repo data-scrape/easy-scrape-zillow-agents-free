@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Jane Smith",
+    "phone": "(555) 123-4567",
+    "email": "jane@example.com",
+    "brokerage": "Smith Realty",
+    "rating": 4.8,
+    "listings": 42
+  }
+]
